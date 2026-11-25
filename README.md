@@ -17,8 +17,8 @@
 
 If you only open two things, open these:
 
-- **[SOC-Lab](https://github.com/EclipseManic/SOC-Lab)** — a 7-node hybrid-cloud SOC I built, then attacked for 74 minutes across 20 stages, and detected. The detection rules were written against the attack as it happened. → **[Live dashboard](https://soc-lab.eclipsemanic.me/)**
-- **[Investigation-Portfolio](https://github.com/EclipseManic/Investigation-Portfolio)** — seven investigations written as incident reports: the evidence, the reasoning, and what I could not conclude.
+- **[SOC-Lab](https://github.com/EclipseManic/SOC-Lab)** — a 7-node hybrid-cloud SOC I built, then attacked for 74 minutes across 20 stages, and detected. The detection rules were written against the attack as it happened. → **[Live dashboard](https://soc-lab.eclipsemanic.me/)** · **[architecture diagram](https://github.com/EclipseManic/SOC-Lab/blob/main/06-Resources/diagrams/SOC_Lab_Architecture.png)**
+- **[Investigation-Portfolio](https://github.com/EclipseManic/Investigation-Portfolio)** — seven investigations written as incident reports: the evidence, the reasoning, and what I could not conclude. → **[sample report](https://github.com/EclipseManic/Investigation-Portfolio/blob/main/Linux%20Server%20Investigation/report.md)**
 
 ## The work, by area
 
