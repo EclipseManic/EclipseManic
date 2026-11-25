@@ -24,12 +24,12 @@ If you only open two things, open these:
 
 *Repos are for investigations, labs and the workbench. Everything else I build is indexed in one [tools repository](https://github.com/EclipseManic/Security-Tools-and-Prototypes).*
 
+- 🧰 **[Security-Tools-and-Prototypes](https://github.com/EclipseManic/Security-Tools-and-Prototypes)** — everything I build, indexed in one place: Windows service and SCM triage for DFIR (**ServiceSentinel**), an incident-response trainer with 133 scenarios (**SOC IR Trainer**), file-intelligence, firewall and log triage, and CLI analyzers — each with a committed sample of its real output.
+- 🛠️ **SecLyst** — a local triage workbench putting IOC lookup, malware analysis, phishing analysis, EVTX event analysis and detection-rule translation in one place. *(in private development)*
 - 🔬 **[SOC-Lab](https://github.com/EclipseManic/SOC-Lab)** — Wazuh, Sysmon, Suricata and pfSense across seven nodes, plus the detection rules written against the attack as it ran. → [Live dashboard](https://soc-lab.eclipsemanic.me/)
 - 🕵️ **[Investigation-Portfolio](https://github.com/EclipseManic/Investigation-Portfolio)** — seven case reports built from PCAP, firewall, proxy and host artifacts: what the evidence supported, and where it ran out.
-- 🧪 **[FTP-Service-Abuse-Detection-Lab](https://github.com/EclipseManic/FTP-Service-Abuse-Detection-Lab)** — a focused lab on detecting MSBuild inline-C# proxy execution hidden behind a Windows service.
-- 🛠️ **SecLyst** — a local triage workbench putting IOC lookup, malware analysis, phishing analysis, EVTX event analysis and detection-rule translation in one place. *(in private development)*
 - 🌐 **[Threat-Intelligence-OSINT-CaseStudies](https://github.com/EclipseManic/Threat-Intelligence-OSINT-CaseStudies)** — four evidence-led case studies assembled from open sources, with sourcing and confidence stated per claim.
-- 🧰 **[Security-Tools-and-Prototypes](https://github.com/EclipseManic/Security-Tools-and-Prototypes)** — everything I build, indexed in one place: Windows service and SCM triage for DFIR (**ServiceSentinel**), an incident-response trainer with 133 scenarios (**SOC IR Trainer**), file-intelligence, firewall and log triage, and CLI analyzers — each with a committed sample of its real output.
+- 🧪 **[FTP-Service-Abuse-Detection-Lab](https://github.com/EclipseManic/FTP-Service-Abuse-Detection-Lab)** — a focused lab on detecting MSBuild inline-C# proxy execution hidden behind a Windows service.
 
 ## Tools I work with
 
