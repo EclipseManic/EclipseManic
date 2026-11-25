@@ -22,6 +22,8 @@ If you only open two things, open these:
 
 ## The work, by area
 
+*Repos are for investigations, labs and the workbench. Everything else I build is indexed in one [tools repository](https://github.com/EclipseManic/Security-Tools-and-Prototypes).*
+
 ### 🔬 Lab and detection engineering
 **[SOC-Lab](https://github.com/EclipseManic/SOC-Lab)** — Wazuh, Sysmon, Suricata and pfSense across seven nodes, plus the detection rules written against the attack as it ran. → [Live dashboard](https://soc-lab.eclipsemanic.me/)
 
@@ -34,11 +36,7 @@ If you only open two things, open these:
 **[Threat-Intelligence-OSINT-CaseStudies](https://github.com/EclipseManic/Threat-Intelligence-OSINT-CaseStudies)** — four evidence-led case studies assembled from open sources, with sourcing and confidence stated per claim.
 
 ### 🛠️ Analyst tooling
-**[ServiceSentinel](https://github.com/EclipseManic/ServiceSentinel)** — Windows service and SCM triage for DFIR: inventory, explainable scoring, and the reasoning behind every score.
-
-**[SOC-IR-Trainer](https://github.com/EclipseManic/SOC-IR-Trainer)** — a browser-based tabletop trainer with 133 scenarios, used to practise decision-making under time pressure.
-
-**[Security-Tools-and-Prototypes](https://github.com/EclipseManic/Security-Tools-and-Prototypes)** — seven smaller tools kept together, each with a committed sample of its real output.
+**[Security-Tools-and-Prototypes](https://github.com/EclipseManic/Security-Tools-and-Prototypes)** — everything I build, indexed in one place: Windows service and SCM triage for DFIR (**ServiceSentinel**), an incident-response trainer with 133 scenarios (**SOC IR Trainer**), file-intelligence, firewall and log triage, and CLI analyzers — each with a committed sample of its real output.
 
 **SecLyst** — a local triage workbench putting IOC lookup, malware analysis, phishing analysis, EVTX event analysis and detection-rule translation in one place. *(in private development)*
 
