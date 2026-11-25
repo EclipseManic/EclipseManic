@@ -20,25 +20,16 @@ If you only open two things, open these:
 - **[SOC-Lab](https://github.com/EclipseManic/SOC-Lab)** — a 7-node hybrid-cloud SOC I built, then attacked for 74 minutes across 20 stages, and detected. The detection rules were written against the attack as it happened. → **[Live dashboard](https://soc-lab.eclipsemanic.me/)** · **[architecture diagram](https://github.com/EclipseManic/SOC-Lab/blob/main/06-Resources/diagrams/SOC_Lab_Architecture.png)**
 - **[Investigation-Portfolio](https://github.com/EclipseManic/Investigation-Portfolio)** — seven investigations written as incident reports: the evidence, the reasoning, and what I could not conclude. → **[sample report](https://github.com/EclipseManic/Investigation-Portfolio/blob/main/Linux%20Server%20Investigation/report.md)**
 
-## The work, by area
+## The work
 
 *Repos are for investigations, labs and the workbench. Everything else I build is indexed in one [tools repository](https://github.com/EclipseManic/Security-Tools-and-Prototypes).*
 
-### 🔬 Lab and detection engineering
-**[SOC-Lab](https://github.com/EclipseManic/SOC-Lab)** — Wazuh, Sysmon, Suricata and pfSense across seven nodes, plus the detection rules written against the attack as it ran. → [Live dashboard](https://soc-lab.eclipsemanic.me/)
-
-**[FTP-Service-Abuse-Detection-Lab](https://github.com/EclipseManic/FTP-Service-Abuse-Detection-Lab)** — a focused lab on detecting MSBuild inline-C# proxy execution hidden behind a Windows service.
-
-### 🕵️ SOC investigation
-**[Investigation-Portfolio](https://github.com/EclipseManic/Investigation-Portfolio)** — seven case reports built from PCAP, firewall, proxy and host artifacts: what the evidence supported, and where it ran out.
-
-### 🌐 Threat intelligence and OSINT
-**[Threat-Intelligence-OSINT-CaseStudies](https://github.com/EclipseManic/Threat-Intelligence-OSINT-CaseStudies)** — four evidence-led case studies assembled from open sources, with sourcing and confidence stated per claim.
-
-### 🛠️ Analyst tooling
-**[Security-Tools-and-Prototypes](https://github.com/EclipseManic/Security-Tools-and-Prototypes)** — everything I build, indexed in one place: Windows service and SCM triage for DFIR (**ServiceSentinel**), an incident-response trainer with 133 scenarios (**SOC IR Trainer**), file-intelligence, firewall and log triage, and CLI analyzers — each with a committed sample of its real output.
-
-**SecLyst** — a local triage workbench putting IOC lookup, malware analysis, phishing analysis, EVTX event analysis and detection-rule translation in one place. *(in private development)*
+- 🔬 **[SOC-Lab](https://github.com/EclipseManic/SOC-Lab)** — Wazuh, Sysmon, Suricata and pfSense across seven nodes, plus the detection rules written against the attack as it ran. → [Live dashboard](https://soc-lab.eclipsemanic.me/)
+- 🕵️ **[Investigation-Portfolio](https://github.com/EclipseManic/Investigation-Portfolio)** — seven case reports built from PCAP, firewall, proxy and host artifacts: what the evidence supported, and where it ran out.
+- 🧪 **[FTP-Service-Abuse-Detection-Lab](https://github.com/EclipseManic/FTP-Service-Abuse-Detection-Lab)** — a focused lab on detecting MSBuild inline-C# proxy execution hidden behind a Windows service.
+- 🛠️ **SecLyst** — a local triage workbench putting IOC lookup, malware analysis, phishing analysis, EVTX event analysis and detection-rule translation in one place. *(in private development)*
+- 🌐 **[Threat-Intelligence-OSINT-CaseStudies](https://github.com/EclipseManic/Threat-Intelligence-OSINT-CaseStudies)** — four evidence-led case studies assembled from open sources, with sourcing and confidence stated per claim.
+- 🧰 **[Security-Tools-and-Prototypes](https://github.com/EclipseManic/Security-Tools-and-Prototypes)** — everything I build, indexed in one place: Windows service and SCM triage for DFIR (**ServiceSentinel**), an incident-response trainer with 133 scenarios (**SOC IR Trainer**), file-intelligence, firewall and log triage, and CLI analyzers — each with a committed sample of its real output.
 
 ## Tools I work with
 
