@@ -26,7 +26,7 @@ If you only open two things, open these:
 [Threat-Intelligence-OSINT-CaseStudies](https://github.com/EclipseManic/Threat-Intelligence-OSINT-CaseStudies) — four evidence-led case studies assembled from open sources, with sourcing and confidence stated per claim.
 
 ### Analyst tooling
-[SecLyst](https://github.com/EclipseManic/SecLyst) — a local triage workbench putting IOC lookup, malware analysis, phishing analysis, EVTX event analysis and detection-rule translation in one place.
+**SecLyst** (in private development) — a local triage workbench putting IOC lookup, malware analysis, phishing analysis, EVTX event analysis and detection-rule translation in one place.
 
 [ServiceSentinel](https://github.com/EclipseManic/ServiceSentinel) — Windows service and SCM triage for DFIR: inventory, explainable scoring, and the reasoning behind every score.
 
