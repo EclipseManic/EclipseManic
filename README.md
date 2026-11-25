@@ -1,38 +1,50 @@
-# Manichand Gupta
+<div align="center">
 
-**SOC and detection engineering analyst.** I work on Windows and network telemetry, incident investigation, and the small tools that make triage faster. Threat intelligence and OSINT research is the other half of that work.
+<img src="assets/banner.png" alt="Manichand Gupta — SOC and detection engineering" width="100%">
 
-Delhi NCR, India — open to relocation
-[eclipsemanic.me](https://eclipsemanic.me) · [LinkedIn](https://www.linkedin.com/in/manichandgupta/)
+<br>
+
+<a href="https://eclipsemanic.me"><img src="https://img.shields.io/badge/eclipsemanic.me-161B22?style=for-the-badge&logo=firefoxbrowser&logoColor=58A6FF" alt="Website"></a>
+<a href="https://www.linkedin.com/in/manichandgupta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/EclipseManic?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+<img src="https://img.shields.io/badge/Delhi_NCR,_India-open_to_relocation-2EA043?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Delhi NCR, open to relocation">
+
+</div>
+
+---
 
 ## Start here
 
 If you only open two things, open these:
 
-- **[SOC-Lab](https://github.com/EclipseManic/SOC-Lab)** — a 7-node hybrid-cloud SOC I built, then attacked for 74 minutes across 20 stages, and detected. [Live dashboard](https://soc-lab.eclipsemanic.me/)
-- **[Investigation-Portfolio](https://github.com/EclipseManic/Investigation-Portfolio)** — seven investigations written as incident reports, each with the evidence, the reasoning, and what I could not conclude.
+- **[SOC-Lab](https://github.com/EclipseManic/SOC-Lab)** — a 7-node hybrid-cloud SOC I built, then attacked for 74 minutes across 20 stages, and detected. The detection rules were written against the attack as it happened. → **[Live dashboard](https://soc-lab.eclipsemanic.me/)**
+- **[Investigation-Portfolio](https://github.com/EclipseManic/Investigation-Portfolio)** — seven investigations written as incident reports: the evidence, the reasoning, and what I could not conclude.
 
-## The four areas
+## The work, by area
 
-### Lab and detection engineering
-[SOC-Lab](https://github.com/EclipseManic/SOC-Lab) — Wazuh, Sysmon, Suricata and pfSense across seven nodes, plus the detection rules written against the attack as it happened. [Live dashboard](https://soc-lab.eclipsemanic.me/)
+### 🔬 Lab and detection engineering
+**[SOC-Lab](https://github.com/EclipseManic/SOC-Lab)** — Wazuh, Sysmon, Suricata and pfSense across seven nodes, plus the detection rules written against the attack as it ran. → [Live dashboard](https://soc-lab.eclipsemanic.me/)
 
-[FTP-Service-Abuse-Detection-Lab](https://github.com/EclipseManic/FTP-Service-Abuse-Detection-Lab) — a focused lab on detecting MSBuild inline-C# proxy execution hidden behind an FTP service.
+**[FTP-Service-Abuse-Detection-Lab](https://github.com/EclipseManic/FTP-Service-Abuse-Detection-Lab)** — a focused lab on detecting MSBuild inline-C# proxy execution hidden behind a Windows service.
 
-### SOC investigation
-[Investigation-Portfolio](https://github.com/EclipseManic/Investigation-Portfolio) — seven case reports built from PCAP, firewall, proxy and host artifacts: what the evidence supported, and where it ran out.
+### 🕵️ SOC investigation
+**[Investigation-Portfolio](https://github.com/EclipseManic/Investigation-Portfolio)** — seven case reports built from PCAP, firewall, proxy and host artifacts: what the evidence supported, and where it ran out.
 
-### Threat intelligence and OSINT
-[Threat-Intelligence-OSINT-CaseStudies](https://github.com/EclipseManic/Threat-Intelligence-OSINT-CaseStudies) — four evidence-led case studies assembled from open sources, with sourcing and confidence stated per claim.
+### 🌐 Threat intelligence and OSINT
+**[Threat-Intelligence-OSINT-CaseStudies](https://github.com/EclipseManic/Threat-Intelligence-OSINT-CaseStudies)** — four evidence-led case studies assembled from open sources, with sourcing and confidence stated per claim.
 
-### Analyst tooling
-**SecLyst** (in private development) — a local triage workbench putting IOC lookup, malware analysis, phishing analysis, EVTX event analysis and detection-rule translation in one place.
+### 🛠️ Analyst tooling
+**[ServiceSentinel](https://github.com/EclipseManic/ServiceSentinel)** — Windows service and SCM triage for DFIR: inventory, explainable scoring, and the reasoning behind every score.
 
-[ServiceSentinel](https://github.com/EclipseManic/ServiceSentinel) — Windows service and SCM triage for DFIR: inventory, explainable scoring, and the reasoning behind every score.
+**[SOC-IR-Trainer](https://github.com/EclipseManic/SOC-IR-Trainer)** — a browser-based tabletop trainer with 133 scenarios, used to practise decision-making under time pressure.
 
-[SOC-IR-Trainer](https://github.com/EclipseManic/SOC-IR-Trainer) — a browser-based tabletop trainer with 133 scenarios, used to practise decision-making under time pressure.
+**[Security-Tools-and-Prototypes](https://github.com/EclipseManic/Security-Tools-and-Prototypes)** — seven smaller tools kept together, each with a committed sample of its real output.
 
-[Security-Tools-and-Prototypes](https://github.com/EclipseManic/Security-Tools-and-Prototypes) — smaller utilities and prototypes, kept together in one place.
+**SecLyst** — a local triage workbench putting IOC lookup, malware analysis, phishing analysis, EVTX event analysis and detection-rule translation in one place. *(in private development)*
+
+## Tools I work with
+
+`Wazuh` `Sysmon` `Suricata` `Wireshark` `Auditd` `TheHive` `Velociraptor` `MITRE ATT&CK` `Python` `PowerShell` `KQL` `Sigma` `Linux` `Windows`
 
 ## How I work
 
